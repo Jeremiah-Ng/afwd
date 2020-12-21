@@ -1,0 +1,87 @@
+body {
+    text-align: center;
+}
+
+#yeet {
+    margin-top: 10px;
+}
+
+#urmom {
+    width: 100%;
+    height: 750px;;
+}
+
+#yeeet {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#ded {
+    height: 300px;
+}
+
+#wow {
+    text-align: center;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: yellow;
+}
+
+#movie1 {
+    width: 1000px;
+}
+
+#avengers {
+    width: 1000px;
+    margin: auto;
+}
+
+#camp {
+    height: 500px;
+}
+
+#school {
+    width: 1000px;
+    margin: auto;
+    height: 250px;
+}
+
+#ee {
+    width: 300px;
+}
+#new {
+    height: 700px;
+    margin: auto;
+     width: 1000px;
+}
+#new li{
+    border-radius: 30px;
+    margin-top: 10px;
+}
+#alum{
+    height: 700px;
+    margin: auto;
+     width: 1000px;
+}
+.e{
+    width: 250px;
+}
